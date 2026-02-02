@@ -106,7 +106,7 @@ group by city
 having count(1)=2
 order by datediff1 
 
-
+--The end of project 
 
 
 
